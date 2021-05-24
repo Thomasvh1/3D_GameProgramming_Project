@@ -1,0 +1,509 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'nl' Physical Memory: 8034 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Thomas/AP/tweede_jaar/3DGameProgramming/Project/3D_GameProgramming_Project/3D_Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57541
+Successfully changed project path to: D:/Thomas/AP/tweede_jaar/3DGameProgramming/Project/3D_GameProgramming_Project/3D_Project
+D:/Thomas/AP/tweede_jaar/3DGameProgramming/Project/3D_GameProgramming_Project/3D_Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Thomas/AP/tweede_jaar/3DGameProgramming/Project/3D_GameProgramming_Project/3D_Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c91)
+    Vendor:   
+    VRAM:     2996 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56856
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002401 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 26.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.134 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003056 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.788 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.7 MB.
+System memory in use after: 79.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1592.
+Total: 1.861900 ms (FindLiveObjects: 0.133500 ms CreateObjectMapping: 0.047000 ms MarkObjects: 1.560600 ms  DeleteObjects: 0.119300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Rock1.fbx
+  artifactKey: Guid(65ec28bceaffb60499f82451ad94bdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Rock1.fbx using Guid(65ec28bceaffb60499f82451ad94bdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34e3aaa7202c7d02c9482b65317d51e1') in 0.208177 seconds
+  Import took 0.210910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Tree4.fbx
+  artifactKey: Guid(d079d0fb57484834295574458782d203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Tree4.fbx using Guid(d079d0fb57484834295574458782d203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b406626fa7c7ace56f6d2563a9707957') in 0.027669 seconds
+  Import took 0.029780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Terrain2.fbx
+  artifactKey: Guid(c4ef56aea4bfc5245be5902a244f9e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Terrain2.fbx using Guid(c4ef56aea4bfc5245be5902a244f9e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2626c393b4522edc3830bdd6bf8b59c0') in 0.022625 seconds
+  Import took 0.025123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Fence.fbx
+  artifactKey: Guid(d5725392f3177bf43a8c7faf96f2292e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Fence.fbx using Guid(d5725392f3177bf43a8c7faf96f2292e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c403399fb311cbc0ff611d7440b5ce9') in 0.035370 seconds
+  Import took 0.037919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Tree2.fbx
+  artifactKey: Guid(bfcbac49ea9674947a210e69a7084d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Tree2.fbx using Guid(bfcbac49ea9674947a210e69a7084d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a36736d259f3ac81b2b4c01f46a6859c') in 0.026262 seconds
+  Import took 0.028602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Rock2.fbx
+  artifactKey: Guid(a0831a813d16efb41af0be594222c69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Rock2.fbx using Guid(a0831a813d16efb41af0be594222c69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '154a66ceaf8e41a406c44736a1fefef3') in 0.013980 seconds
+  Import took 0.016028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Path.fbx
+  artifactKey: Guid(62b81df812da050439a828222a78285e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Path.fbx using Guid(62b81df812da050439a828222a78285e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e19fd095842268df96ae52c2e28b6cd2') in 0.022983 seconds
+  Import took 0.025285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Terrain4.fbx
+  artifactKey: Guid(00a8fa53082adb04db12d796260dcb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Terrain4.fbx using Guid(00a8fa53082adb04db12d796260dcb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf259a412a59b4427b51f1184db9789f') in 0.013933 seconds
+  Import took 0.016768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Tree3.fbx
+  artifactKey: Guid(2b96daa4395f39b42a1afba1552216fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Tree3.fbx using Guid(2b96daa4395f39b42a1afba1552216fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db3c04c5ab6a87d0864abd51d7fa6686') in 0.037863 seconds
+  Import took 0.040637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Flower.fbx
+  artifactKey: Guid(8dc08bde1b3151e4c911b230a75a2ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Flower.fbx using Guid(8dc08bde1b3151e4c911b230a75a2ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a4bd99ced8f8693a7f01b9fe9ade01') in 0.049990 seconds
+  Import took 0.052317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Tree5.fbx
+  artifactKey: Guid(a4fb1c13c6a48c746a1281511bdfc99f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Tree5.fbx using Guid(a4fb1c13c6a48c746a1281511bdfc99f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c1c39a4b8c39b2933288d90ef1d9e9b') in 0.032631 seconds
+  Import took 0.035468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/GrassPatchLarge.fbx
+  artifactKey: Guid(53faa61bc69771c4a8a13d86799fbedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/GrassPatchLarge.fbx using Guid(53faa61bc69771c4a8a13d86799fbedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa664c933d501e0aaaa6f12035e84782') in 0.016304 seconds
+  Import took 0.018814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/FallenTree.fbx
+  artifactKey: Guid(27eb9b9293de10a47bcbb1cbdf726d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/FallenTree.fbx using Guid(27eb9b9293de10a47bcbb1cbdf726d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '017cab0eb4e5b7da06a0c242ad2dc55e') in 0.016377 seconds
+  Import took 0.018677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Bush.fbx
+  artifactKey: Guid(3d43d60bfb6b3cb41b8ee6ae6a519f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Bush.fbx using Guid(3d43d60bfb6b3cb41b8ee6ae6a519f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f24c129b5c476ccd1dc3bd71f1cff0') in 0.025528 seconds
+  Import took 0.027815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/House3.fbx
+  artifactKey: Guid(5fe16056a96fc1e489264ffd29ee00ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/House3.fbx using Guid(5fe16056a96fc1e489264ffd29ee00ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e2de18bee68944ed718ebbf7c33271') in 0.155580 seconds
+  Import took 0.161504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000682 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/TreeStump.fbx
+  artifactKey: Guid(d4a77a36e28518841b3c931faff24a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/TreeStump.fbx using Guid(d4a77a36e28518841b3c931faff24a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c31161915bb0bfe3c87b246f5b48e044') in 0.028621 seconds
+  Import took 0.032349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Terrain6.fbx
+  artifactKey: Guid(2a07ef969243aa447aa188d9b89f8387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Terrain6.fbx using Guid(2a07ef969243aa447aa188d9b89f8387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c125b169e9b0e56d684aa0596b7ba268') in 0.017825 seconds
+  Import took 0.020120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Terrain3.fbx
+  artifactKey: Guid(5a2059f4af7bde749ae70abac27cd230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Terrain3.fbx using Guid(5a2059f4af7bde749ae70abac27cd230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad510bcdddeb39bec799d638a6c1561') in 0.022583 seconds
+  Import took 0.024318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/House2.fbx
+  artifactKey: Guid(e20c0eac7b21fc04d8ca779969787012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/House2.fbx using Guid(e20c0eac7b21fc04d8ca779969787012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eb5148c5d45858e55de49bf59daa178') in 0.048783 seconds
+  Import took 0.052140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/WaterPond.fbx
+  artifactKey: Guid(0ed95230a63f642409bdfce06254cd39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/WaterPond.fbx using Guid(0ed95230a63f642409bdfce06254cd39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f88e9b5f9b50b74041abaa8d14a4ea2e') in 0.022795 seconds
+  Import took 0.024690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/House1.fbx
+  artifactKey: Guid(d454052e46cc5cd449ddb66f18c6c3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/House1.fbx using Guid(d454052e46cc5cd449ddb66f18c6c3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b397bc236cd6237f46c91f1cf5438510') in 0.040567 seconds
+  Import took 0.042378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Terrain5.fbx
+  artifactKey: Guid(e6da035d2c57cbe42ab1a71c2d0da490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Terrain5.fbx using Guid(e6da035d2c57cbe42ab1a71c2d0da490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'add799ea8a11bf4734efc6bbf2579ba0') in 0.011647 seconds
+  Import took 0.013399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/PotatoFarm.fbx
+  artifactKey: Guid(dca497ffe83949640be4a2c55364817e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/PotatoFarm.fbx using Guid(dca497ffe83949640be4a2c55364817e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c6b9739c7a2777d2e95c16fb40d18e') in 0.182664 seconds
+  Import took 0.186998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/GrassPatchSmall.fbx
+  artifactKey: Guid(a5f3ebcdd0d835c40a9709e4a34d3706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/GrassPatchSmall.fbx using Guid(a5f3ebcdd0d835c40a9709e4a34d3706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b8525af96529878b64551a0fecd658') in 0.019140 seconds
+  Import took 0.022201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/CarrotFarm.fbx
+  artifactKey: Guid(4deb2732e924f4e40a8e638d11ef2b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/CarrotFarm.fbx using Guid(4deb2732e924f4e40a8e638d11ef2b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51898b856c95a6a1af53f0ddf17703c3') in 0.117001 seconds
+  Import took 0.118831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Terrain1.fbx
+  artifactKey: Guid(9a3ab1b3e1afaa24e8b5126fe74ee125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Terrain1.fbx using Guid(9a3ab1b3e1afaa24e8b5126fe74ee125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f4ca4272cf6540594f075c70a0a168e') in 0.021321 seconds
+  Import took 0.024506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/3D Models/Tree1.fbx
+  artifactKey: Guid(4bef63f6f9e85fe448d6c02ee0c9c1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/3D Models/Tree1.fbx using Guid(4bef63f6f9e85fe448d6c02ee0c9c1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a9d1715c661d30bdd4f8848f183f74') in 0.025998 seconds
+  Import took 0.028426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.712382 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Bush.prefab
+  artifactKey: Guid(159ff77c9e247d340b78071a1e4c2815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Bush.prefab using Guid(159ff77c9e247d340b78071a1e4c2815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37bb386fda64e2cbcfc49eff0b56bac4') in 0.028204 seconds
+  Import took 0.030452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Path.prefab
+  artifactKey: Guid(547913ca2f2ef544f941992d3e31c854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Path.prefab using Guid(547913ca2f2ef544f941992d3e31c854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e10abce77eee03d1c93ffe1b0f8cdc') in 0.008382 seconds
+  Import took 0.010109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/PotatoFarm.prefab
+  artifactKey: Guid(8fa15d18c856a6744a8f1c9ea5719c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/PotatoFarm.prefab using Guid(8fa15d18c856a6744a8f1c9ea5719c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c79e1eb9a4c20d4b5a02d3eecea00c9') in 0.011806 seconds
+  Import took 0.013758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/GrassPatchLarge.prefab
+  artifactKey: Guid(37b2e414ad36ed349a37ff45c33ec5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/GrassPatchLarge.prefab using Guid(37b2e414ad36ed349a37ff45c33ec5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '369e8237bff12aa17268268d0e9bc05a') in 0.007827 seconds
+  Import took 0.010041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Terrain6.prefab
+  artifactKey: Guid(a7e706630f8089345b513f17257d4fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Terrain6.prefab using Guid(a7e706630f8089345b513f17257d4fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e508b8056a3abb49f6a5df82dd770d82') in 0.007660 seconds
+  Import took 0.009901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/TreeStump.prefab
+  artifactKey: Guid(4e0b065858820f847babd07d0b5ad7df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/TreeStump.prefab using Guid(4e0b065858820f847babd07d0b5ad7df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54e4afbe7332f3fa8c4eede57bf67819') in 0.007666 seconds
+  Import took 0.009396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Terrain5.prefab
+  artifactKey: Guid(f5fb71bc477c60e49a215017aa51631d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Terrain5.prefab using Guid(f5fb71bc477c60e49a215017aa51631d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a08871ecd8c3490b3cd7a09c053d9c04') in 0.007509 seconds
+  Import took 0.009194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Fence.prefab
+  artifactKey: Guid(a58c8bcd22bee1f4cb166841254a2ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Fence.prefab using Guid(a58c8bcd22bee1f4cb166841254a2ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a7b4a0c1a0dfad5f58910f28d74097c') in 0.008356 seconds
+  Import took 0.010878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Terrain4.prefab
+  artifactKey: Guid(ee5330e6e8fee404296a59875e76ea5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Terrain4.prefab using Guid(ee5330e6e8fee404296a59875e76ea5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8323e1728debc1b454fd3dc55dfbc7ca') in 0.008363 seconds
+  Import took 0.010396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/House2.prefab
+  artifactKey: Guid(08b4dda652360224a89d540c7f13c3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/House2.prefab using Guid(08b4dda652360224a89d540c7f13c3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1e6121f2d7dda998ef1ed8b6c4f5498') in 0.013225 seconds
+  Import took 0.015952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/WaterPond.prefab
+  artifactKey: Guid(340c1e8bd6d5c8c439f37f85e55bd6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/WaterPond.prefab using Guid(340c1e8bd6d5c8c439f37f85e55bd6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cab6167e36786bc14e3334d814172d6a') in 0.009594 seconds
+  Import took 0.012180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/CarrotFarm.prefab
+  artifactKey: Guid(eb895d0397b02ff43a9a4b9142fc7ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/CarrotFarm.prefab using Guid(eb895d0397b02ff43a9a4b9142fc7ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d4a15592724bbc57f6bf3358575a2ce') in 0.014847 seconds
+  Import took 0.017522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Tree1.prefab
+  artifactKey: Guid(fa7edeb6b77fa4a48bd89ca8b69c8bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Tree1.prefab using Guid(fa7edeb6b77fa4a48bd89ca8b69c8bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f551a99e5c9be7e90071745723e85043') in 0.009429 seconds
+  Import took 0.011321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/FallenTree.prefab
+  artifactKey: Guid(46ae6b65058d5b841bd8686cc154ee0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/FallenTree.prefab using Guid(46ae6b65058d5b841bd8686cc154ee0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82f3edfa7f23aaaf8d4acf3bccb714c3') in 0.008955 seconds
+  Import took 0.010995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Rock1.prefab
+  artifactKey: Guid(087f374688268d546967a6f5ad5f3890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Rock1.prefab using Guid(087f374688268d546967a6f5ad5f3890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ea6d4c054c104ce39d2bb590b28f45') in 0.009151 seconds
+  Import took 0.011019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/House1.prefab
+  artifactKey: Guid(aeae148372547c145be7c7e29bc7a758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/House1.prefab using Guid(aeae148372547c145be7c7e29bc7a758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eb1e17003b738c45d320254ecb2a223') in 0.011138 seconds
+  Import took 0.013445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Terrain1.prefab
+  artifactKey: Guid(16bcab8970f33844198232193dab5c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Terrain1.prefab using Guid(16bcab8970f33844198232193dab5c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6474e95648c56ca454ef7135cef3b528') in 0.009589 seconds
+  Import took 0.011577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Tree2.prefab
+  artifactKey: Guid(295d4fe610e3f6e458553690239006ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Tree2.prefab using Guid(295d4fe610e3f6e458553690239006ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd511818f1f8f24cda5094e530ccea52b') in 0.009229 seconds
+  Import took 0.011690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Tree3.prefab
+  artifactKey: Guid(44bfbe5aadbf41145882fddb9a940be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Tree3.prefab using Guid(44bfbe5aadbf41145882fddb9a940be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd2d7c44acf4c6cde664f8c1ce0bbd2b') in 0.009312 seconds
+  Import took 0.011225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Terrain3.prefab
+  artifactKey: Guid(3e48aa21d0da415438fc5d48357e07a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Terrain3.prefab using Guid(3e48aa21d0da415438fc5d48357e07a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a2bc4b095ebe2c29419d72761a6bd2') in 0.008941 seconds
+  Import took 0.011230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Tree5.prefab
+  artifactKey: Guid(87db960e0d32bd8469c9342504c75ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Tree5.prefab using Guid(87db960e0d32bd8469c9342504c75ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c559e74c3ec02e9767bdaa0ad78b111e') in 0.009988 seconds
+  Import took 0.012628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Flower.prefab
+  artifactKey: Guid(65da10d1209ab934dafe38c5a1208ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Flower.prefab using Guid(65da10d1209ab934dafe38c5a1208ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0578c4326419d2af5103727c8ecc93bf') in 0.010500 seconds
+  Import took 0.012584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Tree4.prefab
+  artifactKey: Guid(e409369781974684095924fc5a1fce2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Tree4.prefab using Guid(e409369781974684095924fc5a1fce2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b2a72eec2929637a4f948bf5d6e9d50') in 0.009450 seconds
+  Import took 0.011673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/House3.prefab
+  artifactKey: Guid(8fffe6581d8c61b438428d19f3ca3b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/House3.prefab using Guid(8fffe6581d8c61b438428d19f3ca3b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765bf82d455ff407edcd1e8fa20251ba') in 0.013321 seconds
+  Import took 0.015584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Terrain2.prefab
+  artifactKey: Guid(08a2dce355534f14786a3b37fa3ee46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Terrain2.prefab using Guid(08a2dce355534f14786a3b37fa3ee46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720f3193ec93a8ae6c6e313c062f214b') in 0.009012 seconds
+  Import took 0.011281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/GrassPatchSmall.prefab
+  artifactKey: Guid(f1888b6d87b131e4fad214b3450d515f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/GrassPatchSmall.prefab using Guid(f1888b6d87b131e4fad214b3450d515f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0168fcf8419ef5c5060442810d74717') in 0.009025 seconds
+  Import took 0.011093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Rock2 (10).prefab
+  artifactKey: Guid(5a7631254e53461409d2bb41bf96d692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Rock2 (10).prefab using Guid(5a7631254e53461409d2bb41bf96d692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82fff63cdd20b4e60fed92336a60de49') in 0.008877 seconds
+  Import took 0.011120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002239 seconds.
+  path: Assets/Lowpoly Nature & Village Pack/Prefabs/Rock2 (10).prefab
+  artifactKey: Guid(5a7631254e53461409d2bb41bf96d692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Nature & Village Pack/Prefabs/Rock2 (10).prefab using Guid(5a7631254e53461409d2bb41bf96d692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82fff63cdd20b4e60fed92336a60de49') in 0.008148 seconds
+  Import took 0.010399 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
