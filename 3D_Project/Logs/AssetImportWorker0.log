@@ -15,11 +15,11 @@ D:/Thomas/AP/tweede_jaar/3DGameProgramming/Project/3D_GameProgramming_Project/3D
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50686
+62263
 Successfully changed project path to: D:/Thomas/AP/tweede_jaar/3DGameProgramming/Project/3D_GameProgramming_Project/3D_Project
 D:/Thomas/AP/tweede_jaar/3DGameProgramming/Project/3D_GameProgramming_Project/3D_Project
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 72.09 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 30.31 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.4f1 (0abb6314276a)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
@@ -35,51 +35,307 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56220
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56984
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003590 seconds.
+Registered in 0.002416 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 65.22 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 28.74 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.140 seconds
+- Completed reload, in  1.190 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003882 seconds.
+Registered in 0.001296 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 65.29 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.029 seconds
+- Completed reload, in  0.827 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 1.25 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3042 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 155.8 MB.
-System memory in use after: 155.9 MB.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.9 MB.
+System memory in use after: 79.9 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3511.
-Total: 4.347200 ms (FindLiveObjects: 0.765400 ms CreateObjectMapping: 0.477600 ms MarkObjects: 2.786600 ms  DeleteObjects: 0.315400 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Martian surface - rocky area/Textures/ColorMap.png
-  artifactKey: Guid(211b4764fa8665d4784a28150e284b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Martian surface - rocky area/Textures/ColorMap.png using Guid(211b4764fa8665d4784a28150e284b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb3659de3cbca76db4744773395abe83') in 0.180058 seconds
-  Import took 0.187179 seconds .
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1592.
+Total: 1.907800 ms (FindLiveObjects: 0.176800 ms CreateObjectMapping: 0.090200 ms MarkObjects: 1.508400 ms  DeleteObjects: 0.131600 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 78.126662 seconds.
-  path: Assets/Martian surface - rocky area/Materials/New Material.mat
-  artifactKey: Guid(75e2b4630465229489e3ef0948050f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Martian surface - rocky area/Materials/New Material.mat using Guid(75e2b4630465229489e3ef0948050f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94cd00d760d850aa6d567a27461134b') in 0.077705 seconds
-  Import took 0.083210 seconds .
+  path: Assets/Fantasy Treasure Pack Lite/Prefab
+  artifactKey: Guid(d667b0e100b4ba04a81b01ed60eed11a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Prefab using Guid(d667b0e100b4ba04a81b01ed60eed11a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e7f8544bd366f4245400cc00e036a5') in 0.005467 seconds
+  Import took 0.007497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000640 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Prefab/bottle_009.prefab
+  artifactKey: Guid(0e0ffe614c6a184429243316c49e2efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Prefab/bottle_009.prefab using Guid(0e0ffe614c6a184429243316c49e2efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35954eb65a081e4ec129a01df104a481') in 0.242855 seconds
+  Import took 0.244821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Prefab/gold_01.prefab
+  artifactKey: Guid(c82411508e9628b4e9f629bf2800542f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Prefab/gold_01.prefab using Guid(c82411508e9628b4e9f629bf2800542f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25989507b97b40aa4d9c2f00a08f1fc2') in 0.016080 seconds
+  Import took 0.018135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Prefab/sack_010.prefab
+  artifactKey: Guid(7482e26d21c702344ac7795f06772f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Prefab/sack_010.prefab using Guid(7482e26d21c702344ac7795f06772f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b86cb32d170518a24740497d1ec216c7') in 0.014392 seconds
+  Import took 0.017105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.603718 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Texture
+  artifactKey: Guid(334df90196ffafa4399710698fb4ed65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Texture using Guid(334df90196ffafa4399710698fb4ed65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ab04b74804f01dc59c646d9cd617eff') in 0.002556 seconds
+  Import took 0.005920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.295606 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Texture/texture_04.png
+  artifactKey: Guid(65d1bbd44ddeb544084b5466963d4123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Texture/texture_04.png using Guid(65d1bbd44ddeb544084b5466963d4123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3868e76a59399f525535ce68cc50fd8d') in 0.068066 seconds
+  Import took 0.070453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Texture/texture_10.png
+  artifactKey: Guid(047d557fe648d1e4d9ce1ede36e3b675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Texture/texture_10.png using Guid(047d557fe648d1e4d9ce1ede36e3b675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a442c324e67718dca1f8f109c3ff9569') in 0.011350 seconds
+  Import took 0.013876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Texture/texture_09.png
+  artifactKey: Guid(7b66e2c5e8d783444b8acb4aaeef67b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Texture/texture_09.png using Guid(7b66e2c5e8d783444b8acb4aaeef67b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f5c582907232e872813bf3b72f883e') in 0.011035 seconds
+  Import took 0.013618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.292657 seconds.
+  path: Assets/ChestFree/Materials/chest_simple.mat
+  artifactKey: Guid(64ae43b6b6e887545ad0a92b6b491ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChestFree/Materials/chest_simple.mat using Guid(64ae43b6b6e887545ad0a92b6b491ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a602ad2b4d0e67edec8fd962d591ea2f') in 0.262068 seconds
+  Import took 0.265137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/ChestFree/Materials/gold.mat
+  artifactKey: Guid(ccc85add18994f0479bf8a3beded1d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChestFree/Materials/gold.mat using Guid(ccc85add18994f0479bf8a3beded1d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d03516c4314b0e582c3075d873dda6c') in 0.009611 seconds
+  Import took 0.011885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.634261 seconds.
+  path: Assets/ChestFree/Textures/chest_simple.png
+  artifactKey: Guid(6015de6afd23724418bea7b6b206073b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChestFree/Textures/chest_simple.png using Guid(6015de6afd23724418bea7b6b206073b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50a7c48dbab9e89d0561a3a80a3b7bef') in 0.007331 seconds
+  Import took 0.010797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/ChestFree/Textures/coins.png
+  artifactKey: Guid(f58561e82824d4e46ab1cb3e5b0d912e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChestFree/Textures/coins.png using Guid(f58561e82824d4e46ab1cb3e5b0d912e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b54247da74a449ca2f9645ffbcc9a71') in 0.007524 seconds
+  Import took 0.009858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.065532 seconds.
+  path: Assets/ChestFree/chest_close.FBX
+  artifactKey: Guid(4b1205a7235860c479fc94aefe26ebf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChestFree/chest_close.FBX using Guid(4b1205a7235860c479fc94aefe26ebf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caabee0e70b2ce07a71a99d1849b1f1d') in 0.052080 seconds
+  Import took 0.054426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/ChestFree/chest_open.FBX
+  artifactKey: Guid(5c509bc9e3ce92e418aac359ebdf4281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChestFree/chest_open.FBX using Guid(5c509bc9e3ce92e418aac359ebdf4281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9dbce428307383a8e55a38bedf98aab') in 0.019598 seconds
+  Import took 0.021930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/ChestFree/chest_close.prefab
+  artifactKey: Guid(ffd3e66d4df2a554fb995d41f7ffe4c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChestFree/chest_close.prefab using Guid(ffd3e66d4df2a554fb995d41f7ffe4c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56b3a0ce1d599ee5ece3f5192b21490d') in 0.012061 seconds
+  Import took 0.014401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/ChestFree/coins.prefab
+  artifactKey: Guid(c92fdeb990439954893510a31e925383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChestFree/coins.prefab using Guid(c92fdeb990439954893510a31e925383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f45db9da51c6c84e495351a5a6ec7f') in 0.011162 seconds
+  Import took 0.013354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/ChestFree/chest_open.prefab
+  artifactKey: Guid(e097dc1b761606040a141ca558e64088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChestFree/chest_open.prefab using Guid(e097dc1b761606040a141ca558e64088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e553c0821e500a2ff1cb472b4dac6b43') in 0.012920 seconds
+  Import took 0.015468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/ChestFree/coins.FBX
+  artifactKey: Guid(dd8ebbdcc572196408a6805681c6a297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChestFree/coins.FBX using Guid(dd8ebbdcc572196408a6805681c6a297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7967b4b2c3bc0b9b7b720f5cea0df7ce') in 0.014866 seconds
+  Import took 0.017685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 243.733656 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Mesh/bottle_009.fbx
+  artifactKey: Guid(942cd38d87839934798fc561719eb695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Mesh/bottle_009.fbx using Guid(942cd38d87839934798fc561719eb695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa7ff5e665a93a9cd5a15fb7fb6ea230') in 0.024981 seconds
+  Import took 0.029259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Mesh/sack_010.fbx
+  artifactKey: Guid(2f5e3d3462b9fba43a427722efd79127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Mesh/sack_010.fbx using Guid(2f5e3d3462b9fba43a427722efd79127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4886ef694482b795fc636ba7f73d6b1') in 0.021273 seconds
+  Import took 0.023410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Mesh/gold_01.fbx
+  artifactKey: Guid(825dc207bf01b7e4bab4a7b500b96d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Mesh/gold_01.fbx using Guid(825dc207bf01b7e4bab4a7b500b96d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19ad687a4d8f3810e602b5eccd252e1b') in 0.021828 seconds
+  Import took 0.023950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.425947 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Mesh
+  artifactKey: Guid(393432e44c452d944829ba90c45a3e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Mesh using Guid(393432e44c452d944829ba90c45a3e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e64fbfff3ca9b687a93e929aeee7c9') in 0.003444 seconds
+  Import took 0.009232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.800431 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Mesh/Materials
+  artifactKey: Guid(7fec193270a1a694392f0fcba6a1738d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Mesh/Materials using Guid(7fec193270a1a694392f0fcba6a1738d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e417524e5649e5e23e0d6afa344178f4') in 0.004205 seconds
+  Import took 0.006696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025146 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Mesh/Materials/texture_04.mat
+  artifactKey: Guid(5bbec098120535748a937d8dd264e3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Mesh/Materials/texture_04.mat using Guid(5bbec098120535748a937d8dd264e3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35193dfdc4545a4698e312c8494e9fd6') in 0.012693 seconds
+  Import took 0.014830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Mesh/Materials/texture_10.mat
+  artifactKey: Guid(17f7a86cb8b418d489f76f0047ef3a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Mesh/Materials/texture_10.mat using Guid(17f7a86cb8b418d489f76f0047ef3a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '327d24699934a8b0ce107883b14ce47b') in 0.013203 seconds
+  Import took 0.015489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Fantasy Treasure Pack Lite/Mesh/Materials/texture_09.mat
+  artifactKey: Guid(5e1e828bd462a254ba9e9a4e2cd160e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Treasure Pack Lite/Mesh/Materials/texture_09.mat using Guid(5e1e828bd462a254ba9e9a4e2cd160e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a8c29bf88e3a66eb7011c23ddc79b46') in 0.015664 seconds
+  Import took 0.019270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 306.906963 seconds.
+  path: Assets/Rust Key/Prefabs
+  artifactKey: Guid(51583b4ac38b90748b20a384ff8098db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Prefabs using Guid(51583b4ac38b90748b20a384ff8098db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85abb75886b52e1db0b0c4251c8dfb0f') in 0.003300 seconds
+  Import took 0.006910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008754 seconds.
+  path: Assets/Rust Key/Prefabs
+  artifactKey: Guid(51583b4ac38b90748b20a384ff8098db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Prefabs using Guid(51583b4ac38b90748b20a384ff8098db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85abb75886b52e1db0b0c4251c8dfb0f') in 0.003298 seconds
+  Import took 0.005909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.124385 seconds.
+  path: Assets/Rust Key/Prefabs/rust_key.prefab
+  artifactKey: Guid(78df1db2fbc8ec64f949fac0c05bf693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Prefabs/rust_key.prefab using Guid(78df1db2fbc8ec64f949fac0c05bf693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cafa192b06ca56bfdf75e26f1c574a29') in 0.276240 seconds
+  Import took 0.278531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.583602 seconds.
+  path: Assets/Coins/ChestFree
+  artifactKey: Guid(bc1f50098544d644db115e2ef957eb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coins/ChestFree using Guid(bc1f50098544d644db115e2ef957eb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b9a2f2c78316c6ea9bb4ebea467a51') in 0.003489 seconds
+  Import took 0.007318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/Coins/ChestFree
+  artifactKey: Guid(bc1f50098544d644db115e2ef957eb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coins/ChestFree using Guid(bc1f50098544d644db115e2ef957eb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b9a2f2c78316c6ea9bb4ebea467a51') in 0.002418 seconds
+  Import took 0.004771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.708035 seconds.
+  path: Assets/Rust Key/Materials/rust_key_autodesk.mat
+  artifactKey: Guid(1a7c6b13b8983fa4bbfb1dbfbb5fef57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Materials/rust_key_autodesk.mat using Guid(1a7c6b13b8983fa4bbfb1dbfbb5fef57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '427da268f5f665ee32498e0ed2a85a6a') in 0.017473 seconds
+  Import took 0.019523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Rust Key/Materials/rust_key_standard.mat
+  artifactKey: Guid(c4ce38443ffac714c82a4b78c56ea38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Materials/rust_key_standard.mat using Guid(c4ce38443ffac714c82a4b78c56ea38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a43e958ee2f0ac8701e58885f501a52') in 0.256313 seconds
+  Import took 0.258450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.224883 seconds.
+  path: Assets/Rust Key/Mesh/rust_key.FBX
+  artifactKey: Guid(0669f3d8f4b119f418a4bbe061cc198f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Mesh/rust_key.FBX using Guid(0669f3d8f4b119f418a4bbe061cc198f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0ebe8b7eea9899553611406ba91194') in 0.016845 seconds
+  Import took 0.020475 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
