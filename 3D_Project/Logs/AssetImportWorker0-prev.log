@@ -15,11 +15,11 @@ D:/Thomas/AP/tweede_jaar/3DGameProgramming/Project/3D_GameProgramming_Project/3D
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61216
+59246
 Successfully changed project path to: D:/Thomas/AP/tweede_jaar/3DGameProgramming/Project/3D_GameProgramming_Project/3D_Project
 D:/Thomas/AP/tweede_jaar/3DGameProgramming/Project/3D_GameProgramming_Project/3D_Project
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 66.89 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 53.62 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.4f1 (0abb6314276a)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
@@ -35,135 +35,59 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56628
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002352 seconds.
+Registered in 0.002482 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 64.62 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 32.50 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.145 seconds
+- Completed reload, in  2.927 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002755 seconds.
+Registered in 0.001430 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 63.48 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.930 seconds
+- Completed reload, in  0.811 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3042 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 155.9 MB.
-System memory in use after: 155.9 MB.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.0 MB.
+System memory in use after: 81.1 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3511.
-Total: 6.257100 ms (FindLiveObjects: 0.672400 ms CreateObjectMapping: 0.432700 ms MarkObjects: 4.611700 ms  DeleteObjects: 0.537800 ms)
-
-========================================================================
-Received Import Request.
-  path: Packages/com.unity.ugui/Runtime/UnityEngine.UI.asmdef
-  artifactKey: Guid(2bafac87e7f4b9b418d9448d219b01ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.ugui/Runtime/UnityEngine.UI.asmdef using Guid(2bafac87e7f4b9b418d9448d219b01ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c37310fa3c74a69970f22e780a69fd77') in 0.054629 seconds
-  Import took 0.065120 seconds .
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1596.
+Total: 1.914200 ms (FindLiveObjects: 0.183700 ms CreateObjectMapping: 0.090000 ms MarkObjects: 1.508800 ms  DeleteObjects: 0.130300 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 102.588963 seconds.
-  path: Packages/com.unity.visualeffectgraph/package.json
-  artifactKey: Guid(6f8f5c087a5cb4bd19c1e4898d57e453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.visualeffectgraph/package.json using Guid(6f8f5c087a5cb4bd19c1e4898d57e453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0006da6c4e95fc9a673ec4351ae23326') in 0.018013 seconds
-  Import took 0.023584 seconds .
+  path: Assets/Rust Key/Prefabs/rust_key.prefab
+  artifactKey: Guid(78df1db2fbc8ec64f949fac0c05bf693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Prefabs/rust_key.prefab using Guid(78df1db2fbc8ec64f949fac0c05bf693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ce631a81c4b816b70bcdc8d75e1820') in 0.120507 seconds
+  Import took 0.122875 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Packages/com.unity.visualeffectgraph/Unity.VisualEffectGraph.Runtime.asmdef
-  artifactKey: Guid(d04eb9c554ad44ceab303cecf0c0cf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.visualeffectgraph/Unity.VisualEffectGraph.Runtime.asmdef using Guid(d04eb9c554ad44ceab303cecf0c0cf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e1f29853cc4afa443290158a238564') in 0.002901 seconds
-  Import took 0.008916 seconds .
+  Time since last request: 0.000960 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(af65d88425c1c2b4f9d9b56660598edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(af65d88425c1c2b4f9d9b56660598edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9212b3f541635871053cf7fdec3f69cb') in 0.002546 seconds
+  Import took 0.005068 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 228.113804 seconds.
-  path: Packages/com.unity.render-pipelines.high-definition/package.json
-  artifactKey: Guid(6f54db4299717fc4ca37866c6afa0905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.render-pipelines.high-definition/package.json using Guid(6f54db4299717fc4ca37866c6afa0905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccf3021e5dc206084bc15267df353f63') in 0.005154 seconds
-  Import took 0.010827 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.622583 seconds.
-  path: Packages/com.unity.render-pipelines.high-definition/Runtime
-  artifactKey: Guid(dcaf8cf682d5d8047ba595f890470457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.render-pipelines.high-definition/Runtime using Guid(dcaf8cf682d5d8047ba595f890470457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c958f1501ace19f81129873e098e0c85') in 0.003026 seconds
-  Import took 0.008563 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.011665 seconds.
-  path: Packages/com.unity.render-pipelines.high-definition/Runtime
-  artifactKey: Guid(dcaf8cf682d5d8047ba595f890470457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.render-pipelines.high-definition/Runtime using Guid(dcaf8cf682d5d8047ba595f890470457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c958f1501ace19f81129873e098e0c85') in 0.004095 seconds
-  Import took 0.008948 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.215208 seconds.
-  path: Packages/com.unity.render-pipelines.high-definition/Runtime/Unity.RenderPipelines.HighDefinition.Runtime.asmdef
-  artifactKey: Guid(457756d89b35d2941b3e7b37b4ece6f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/Unity.RenderPipelines.HighDefinition.Runtime.asmdef using Guid(457756d89b35d2941b3e7b37b4ece6f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e13d0422faa3c5f569a7e76665b701') in 0.004838 seconds
-  Import took 0.012151 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 37.523134 seconds.
-  path: Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipeline
-  artifactKey: Guid(73709c10d2eabb84d97c8af27f1bfc19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipeline using Guid(73709c10d2eabb84d97c8af27f1bfc19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7e04710368826c37d3f9379c239a183') in 0.005324 seconds
-  Import took 0.011126 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001260 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 26.96 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.822 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 108.9 MB.
-System memory in use after: 108.8 MB.
-
-Unloading 401 unused Assets to reduce memory usage. Loaded Objects now: 3118.
-Total: 5.211700 ms (FindLiveObjects: 0.626800 ms CreateObjectMapping: 0.342600 ms MarkObjects: 3.737900 ms  DeleteObjects: 0.502200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1712.754992 seconds.
-  path: Assets/Coins
-  artifactKey: Guid(d09e4b25173668945961bf205ae15625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Coins using Guid(d09e4b25173668945961bf205ae15625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90882eeb5ea242c7999011784de567bf') in 0.008891 seconds
-  Import took 0.015619 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.535100 seconds.
-  path: Assets/Coins/Coin Variant.prefab
-  artifactKey: Guid(b5519794f9db59e4da006c68b60e8082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Coins/Coin Variant.prefab using Guid(b5519794f9db59e4da006c68b60e8082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eb4614eb66e0a0c199c9cbf5d4a6620') in 0.042689 seconds
-  Import took 0.048071 seconds .
+  Time since last request: 0.474513 seconds.
+  path: Assets/Scripts/TeleportLevel.cs
+  artifactKey: Guid(44754e33431f01048925b68d5aff795e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TeleportLevel.cs using Guid(44754e33431f01048925b68d5aff795e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eac695eb9290cff8589cac32b4933e6') in 0.018150 seconds
+  Import took 0.021303 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
