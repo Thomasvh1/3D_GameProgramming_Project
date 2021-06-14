@@ -19,15 +19,18 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float jumpHeight;
     //References
     private CharacterController controller;
+    private Animator anim;
 
     private void Start() 
     {
         controller = GetComponent<CharacterController>();
+        anim = GetComponentInChildren<Animator>();
     }
     private void Update() 
     {
         Move();
     }
+
     private void Move() 
     {
         isGrounded = Physics.CheckSphere(transform.position, groundCheckDistance, groundMask);
@@ -67,19 +70,23 @@ public class PlayerMovement : MonoBehaviour
         velocity.y += gravity * Time.deltaTime;
         controller.Move(velocity * Time.deltaTime);
     }
+    
     private void Idle() 
     {
-
+        moveSpeed = walkSpeed;
+        anim.SetFloat("Speed", 0);
     }
 
     private void Walk() 
     {
         moveSpeed = walkSpeed;
+        anim.SetFloat("Speed", 0.5f);
     }
 
     private void Run() 
     {
         moveSpeed = runSpeed;
+        anim.SetFloat("Speed", 1);
     }
     
     private void Jump() 
